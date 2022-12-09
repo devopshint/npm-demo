@@ -1,5 +1,5 @@
 {
-  "name": "@devopshint/new_npm",
+  "name": "@devopshint/npm-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devopshint/new_npm.git"
+    "url": "git+https://github.com/devopshint/npm-demo.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/devopshint/new_npm/issues"
+    "url": "https://github.com/devopshint/npm-demo/issues"
   },
   "publishConfig": {
     "@devopshint:registry": "https://npm.pkg.github.com"
   },
-  "homepage": "https://github.com/devopshint/new_npm#readme"
+  "homepage": "https://github.com/devopshint/npm-demo#readme"
 }
